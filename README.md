@@ -8,6 +8,9 @@ You can add, view, update, delete, and search students.
 - OOP, Collections (ArrayList)
 - Console I/O (Scanner)
 
-## How to run (command line)
-1. Open terminal / command prompt in project folder (where `.java` files are).
-2. Compile:
+## ⚡ How To Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Radhikakakad28/Student-Management-System.git
+cd Student-Management-System
